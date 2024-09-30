@@ -1,7 +1,2 @@
-echo "# Laba" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/dasha-gif69/Laba.git
-git push -u origin main
+On branch nain
+nothing to commit, working tree clean
